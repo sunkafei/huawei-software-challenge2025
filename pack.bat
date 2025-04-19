@@ -1,0 +1,2 @@
+zip -r pack.zip huawei-software-challenge2025/constants.h huawei-software-challenge2025/main.cpp huawei-software-challenge2025/utility.h huawei-software-challenge2025/hyperparameters.h huawei-software-challenge2025/finetune.py huawei-software-challenge2025/debug.py data
+pause 
