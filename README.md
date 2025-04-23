@@ -10,5 +10,4 @@
 | debug.py          | 错误检测脚本   |
 | finetune.py       | 超参数搜索脚本 |
 
-后续我会在知乎上发布一篇文章详细讲解算法实现，如有需要请移步：[知乎@孙咖啡](https://www.zhihu.com/people/sun-ming-zhi-91)
-
+算法解析请参见[知乎@孙咖啡](https://zhuanlan.zhihu.com/p/1898417302979981487).
